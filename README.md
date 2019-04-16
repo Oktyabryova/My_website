@@ -1,4 +1,3 @@
-logo: [https://media.licdn.com/dms/image/C5603AQEkUzAfacMSAw/profile-displayphoto-shrink_200_200/0?e=1560988800&v=beta&t=2l1yv-4CjNby5mOV0bj1TvhmYLXn46Jgf7RALG-_Y5E]
 
 # Viktoriia Zhovnovata
 ### *Dreamer and coffee-lover*
